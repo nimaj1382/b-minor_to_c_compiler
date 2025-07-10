@@ -1,0 +1,4 @@
+/home/nima/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/nima/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/linux/ninja -DCMAKE_C_COMPILER=gcc -DCMAKE_CXX_COMPILER=g++ -G Ninja -S /home/nima/programs/cpp/compiler-project-seriess-2 -B /home/nima/programs/cpp/compiler-project-seriess-2/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nima/programs/cpp/compiler-project-seriess-2/cmake-build-debug

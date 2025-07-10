@@ -1,0 +1,10 @@
+# ninja log v5
+44	60	1748815150130911960	compiler_project_seriess_2	ed9d57d03abb421d
+0	13	1748815445771002481	build.ninja	248e6996ffd6406b
+0	44	1748815150114912447	CMakeFiles/compiler_project_seriess_2.dir/parser.c.o	ea87c592b4d47436
+0	40	1748814416138990503	CMakeFiles/compiler_project_seriess_2.dir/codegen.c.o	4413fbed1c8d2b67
+0	36	1748813965280294221	CMakeFiles/compiler_project_seriess_2.dir/ast.c.o	9e54c951e76e01e0
+0	35	1748815150105912721	CMakeFiles/compiler_project_seriess_2.dir/lexer.c.o	ee1dc9770d042b82
+0	20	1748815150090913177	CMakeFiles/compiler_project_seriess_2.dir/main.c.o	dabbd5569f862c9b
+0	32	1748816243019473992	CMakeFiles/compiler_project_seriess_2.dir/lexer.c.o	ee1dc9770d042b82
+32	49	1748816243036473704	compiler_project_seriess_2	ed9d57d03abb421d

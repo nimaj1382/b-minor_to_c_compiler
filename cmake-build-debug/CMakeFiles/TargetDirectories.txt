@@ -1,0 +1,3 @@
+/home/nima/programs/cpp/compiler-project-seriess-2/cmake-build-debug/CMakeFiles/compiler_project_seriess_2.dir
+/home/nima/programs/cpp/compiler-project-seriess-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nima/programs/cpp/compiler-project-seriess-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
